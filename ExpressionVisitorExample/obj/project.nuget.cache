@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mMyKCC5OdzU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hseyn\\source\\repos\\ExpressionVisitorExample\\ExpressionVisitorExample\\ExpressionVisitorExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hseyn\\.nuget\\packages\\bogus\\35.5.1\\bogus.35.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
